@@ -43,7 +43,8 @@
   rr:predicateObjectMap [
     rr:predicate vocab:relation;
     rr:objectMap [
-      rr:parentTriplesMap <#TriplesMap2>
+      rr:parentTriplesMap <#TriplesMap2>;
+      rr:joinCondition [ rr:child "COLUMN REFERENCE"; rr:parent "COLUMN-SOURCE-TRIPLESMAP2"; ];
     ]
   ] .
 
