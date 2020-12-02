@@ -1,0 +1,59 @@
+prefixes:
+  rr: http://www.w3.org/ns/r2rml#
+  foaf: http://xmlns.com/foaf/0.1/
+  xsd: http://www.w3.org/2001/XMLSchema#
+  rdfs: http://www.w3.org/2000/01/rdf-schema#
+  rev: http://purl.org/stuff/rev#
+  schema: http://schema.org/
+  dct: http://purl.org/dc/terms/
+  rml: http://semweb.mmlab.be/ns/rml#
+  ql: http://semweb.mmlab.be/ns/ql#
+  rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#
+  ex: http://example.org#
+  
+mappings:
+  TriplesMapCentros:
+    sources:
+      - [centros.csv~csv]
+    s: http://datos-ckan.vigo.org/recurso/educacion/centro/$(id)
+    po:
+      - [a, schema:EducationalOrganization]
+      - [schema:name,$(nombre)]
+      - [schema:telephone,$(telefono)]
+      - [schema:url,$(web)~iri]
+      - [schema:latitude,$(lat),xsd:double]
+      - [schema:longitude,$(lon),xsd:double]
+      - p: schema:address
+        o:
+          - mapping: TriplesMapDireccion
+            condition:
+              function: equal
+              parameters:
+                - [str1, $(id)]
+                - [str2, $(id)]
+      - p: ex:tipo
+        o:
+          - mapping: TriplesMapTipoDeCentro
+            condition:
+              function: equal
+              parameters:
+                - [str1, $(id)]
+                - [str2, $(id)]
+
+
+  TriplesMapDireccion:
+    sources:
+      - [centros.csv~csv]
+    s: http://datos-ckan.vigo.org/recurso/educacion/centro/$(id)/direccion
+    po:
+      - [a, schema:PostalAddress]
+      - [schema:number,$(numero),xsd:integer]
+
+  TriplesMapTipoDeCentro:
+    sources:
+      - [centros.csv~csv]
+    s: http://datos-ckan.vigo.org/recurso/educacion/centro/tipo/$(id_tipo)
+    po:
+      - [a, ex:TipoDeCentro]
+      - [rdfs:label,$(tipo_es),es~lang]
+      - [rdfs:label,$(tipo_gl),gl~lang]

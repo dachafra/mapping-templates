@@ -1,0 +1,218 @@
+id,tipo_es,tipo_gl,id_tipo,nombre,parroquia,barrio,calle,numero,lat,lon,codigo_postal,telefono,web
+5204,Conservatorios de Música (CEMU/CMUS),Conservatorios de Música (CEMU/CMUS),355,CEMU Profesional Coppelia,VIGO,VIGO,RUA PI Y MARGALL,61,42.23345,-8.73022,36202,986222930,
+5205,Conservatorios de Música (CEMU/CMUS),Conservatorios de Música (CEMU/CMUS),355,CEMU Profesional Mayeusis,,,RUA AREAL,118,42.23879,-8.71158,36201,986226378,
+5206,Conservatorios de Música (CEMU/CMUS),Conservatorios de Música (CEMU/CMUS),355,CEMU Superior Mayeusis,,,RUA AREAL,118,42.23879,-8.71158,36201,,
+5207,Conservatorios de Música (CEMU/CMUS),Conservatorios de Música (CEMU/CMUS),355,CMUS Profesional de Vigo,VIGO,VIGO,RUA FOTOGRAFO FELIPE PROSPERI,,42.21647,-8.74017,36209,986213395,
+5208,Conservatorios de Música (CEMU/CMUS),Conservatorios de Música (CEMU/CMUS),355,CMUS Superior de Vigo,VIGO,VIGO,RUA MANUEL OLIVIE,23,42.22923,-8.72357,36203,986471144,
+5209,Centro Autorizado de Deportes (CAD),Centro Autorizado de Deportes (CAD),356,CAD ACADEF (Escuela de Entrenadores de Fútbol),VALADARES,GARRIDA,CMÑO ESCOLA ANDERSEN,28,42.16156,-8.72281,36315,606198166,
+5210,Centro Autorizado de Deportes (CAD),Centro Autorizado de Deportes (CAD),356,CAD CIP,VIGO,VIGO,RUA BRASIL,48,42.23242,-8.71355,36204,986472211,
+5211,Centro Autorizado de Deportes (CAD),Centro Autorizado de Deportes (CAD),356,CAD Montecastelo,LAVADORES,GANDARIÑA,RUA PAZ PARDO,84,42.21406,-8.69346,36214,986412488,
+5212,Centro Autorizado de Deportes (CAD),Centro Autorizado de Deportes (CAD),356,CADFS Constantino Castro Ruso (Fútbol Sala),SARDOMA,RAVISO,RUA CARBALLO,46,42.22355,-8.71545,36204,981134238,
+5213,Centro Privado estranjero (CPREX),Centro Privado estranxeiro (CPREX),357,CPREX Eleven School,MATAMA,IGREXA,CMÑO REAL (MATAMA),10,42.20109,-8.73761,36213,672077780,https://elevenschool.com
+5215,Escola Oficial de Idiomas (EOI),Escola Oficial de Idiomas (EOI),358,EOI de Vigo,LAVADORES,BAGUNDA,AVDA E. MTNEZ GARRIDO- ALCALDE,17,42.22852,-8.69955,36205,986260261,
+5216,Centro Público de Educación y Promoción de Adultos,Centro Público de Educación e Promoción de Adultos,359,EPAPU Berbés,VIGO,VIGO,RUA MARQUES DE VALTERRA,8,42.23372,-8.73215,36202,886110976,
+5217,Escuela Superior de Arte Dramática (ESAD),Escola Superior de Arte Dramática (ESAD),360,ESAD Escola Superior de Arte Dramática de Galicia,,,RUA POZA CABALO,,42.20879,-8.75924,36213,986246399,
+361,Universidad,Universidade,73,Facultade de Filoloxía e Traducción,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16972,-8.67711,36310,986812251,http://fft.uvigo.es
+362,Universidad,Universidade,73,Facultade de Ciencias Xurídicas e do Traballo,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16831,-8.68131,36310,986814010,http://fccxxt.webs.uvigo.es/gl/
+363,Universidad,Universidade,73,Facultade de Ciencias Económicas e Empresariais,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.17035,-8.68082,36310,986812400,http://fccee.uvigo.es
+364,Universidad,Universidade,73,Facultade de Química,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16819,-8.68455,36310,986812696,http://quimica.uvigo.es/
+365,Universidad,Universidade,73,Facultade de Ciencias do Mar,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16808,-8.68480,36310,986812550,http://mar.uvigo.es
+366,Universidad,Universidade,73,Facultade de Bioloxía,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.16744,-8.68552,36310,986811976,http://bioloxia.uvigo.es
+368,Universidad,Universidade,73,Escola de Enxeñaría de Minas e Enerxía,ZAMANS,MARCOSENDE,RUA MAXWELL,0,42.16877,-8.68839,36310,986811930,http://minaseenerxia.uvigo.es/gl/
+369,Universidad,Universidade,73,ETS de Enxeñeiros de Telecomunicacións,ZAMANS,MARCOSENDE,CTRA MARCOSENDE,0,42.17005,-8.68813,36310,986812100,http://teleco.uvigo.es
+5238,Universidad,Universidade,73,Escola de Enxeñería Industrial (Sede Cidade),VIGO,VIGO,RUA CONDE TORRECEDEIRA,86,42.22722,-8.73461,36208,986813688,http://eei.uvigo.es/
+5239,Universidad,Universidade,73,Escola de Enxeñería Industrial (Sede Campus),,,RUA MAXWELL,,42.16823,-8.68928,36310,986812200,http://eei.uvigo.es/
+5240,Universidad,Universidade,73,Centro de Apoio Científico e Tecnolóxico á Investigación (CACTI),,,CTRA MARCOSENDE,,42.16731,-8.68398,,986812118,http://cactiweb.webs.uvigo.es/Joomla/index.php/gl/
+5241,Universidad,Universidade,73,Centro de Investigacións Biomédicas (CINBIO),,,CTRA MARCOSENDE,,42.16731,-8.68398,,986812118,http://cinbio.es/gl/portada/
+5242,Universidad,Universidade,73,Centro de Investigación Tecnolóxico Industrial (MTI),,,CTRA MARCOSENDE,,42.16731,-8.68398,,986130153,http://mti.uvigo.es/
+5245,Universidad,Universidade,73,Estación de Ciencias Mariñas de Toralla (ECIMAT),,,,,42.20177,-8.80076,,986815700,https://ecimat.uvigo.es/es/
+5246,Universidad,Universidade,73,EU de Enfermaría (Meixoeiro) (Centro adscrito público),,,CMÑO MEIXUEIRO,,42.21369,-8.68654,,986811152,http://enfermeriameixoeiro.uvigo.es/index.php/es/
+5247,Universidad,Universidade,73,EU de Enfermaría (Povisa),VIGO,VIGO,RUA ROMIL,75,42.22738,-8.72908,36211,986472058,http://www.cepovisa.com
+5248,Universidad,Universidade,73,"Escola Universitaria de Maxisterio ""María Sedes Sapientiae""",SARDOMA,LAMEIRO,CTRA MADRID,8,42.21465,-8.69953,36214,986414498,http://www.escuelamagisterioceuvigo.es/
+5249,Universidad,Universidade,73,Instituto de Educación Superior Intercontinental de la Empresa (IESIDE),VIGO,VIGO,AVDA MADRID,60,42.22500,-8.71307,36204,986493252,https://www.ieside.edu/
+1854,Centro de Estudios Artísticos y Técnicos (CE.ART),Centro de Estudios Artísticos e Técnicos (CE.ART),203,CE.ART Atlántico,CABRAL,SELLO,AVDA PONTE (CABRAL),9,42.22190,-8.66969,36215,986266058,http://www.escuelatlantico.com
+5152,Centro de Estudios Artísticos y Técnicos (CE.ART),Centro de Estudios Artísticos e Técnicos (CE.ART),203,CE.ART Marcote,CABRAL,FONTIÑAS,AVDA PONTE,80,42.21494,-8.66939,36215,986266013,
+4620,Centro de Estudios Artísticos y Técnicos (CE.ART),Centro de Estudios Artísticos e Técnicos (CE.ART),203,CE.ART Aula D,VIGO,VIGO,RUA OURENSE,4,42.22572,-8.73011,36211,986214076,
+4739,Centro de Estudios Artísticos y Técnicos (CE.ART),Centro de Estudios Artísticos e Técnicos (CE.ART),203,CE.ART Tex-Moda,VALADARES,PORTAL,CTRA VALADARES,0,42.17554,-8.71023,36314,986223620,http://www.texmoda.es/
+1851,Centro de Educación Especial (CEEPR),Centro de Educación Especial (CEEPR),164,CEE Saladino Cortizo,CABRAL,CARBALLAL,RUA CARBALLAL (CABRAL),60,42.23814,-8.63857,36318,986288188,
+1955,Centro de Educación Especial (CEEPR),Centro de Educación Especial (CEEPR),164,CEEPR San Francisco,NAVIA,PERTEGUEIRAS,AVDA EUROPA,94,42.21168,-8.77202,36212,672150928,
+1973,Centro de Educación Especial (CEEPR),Centro de Educación Especial (CEEPR),164,CEEPR Fogar e Clin. San Rafael,VIGO,VIGO,RUA SAN XOAN DE DEUS (BOUZAS),1,42.22347,-8.74684,36208,986232740,
+1975,Centro de Educación Especial (CEEPR),Centro de Educación Especial (CEEPR),164,CEEPR Menela,ALCABRE,VEIGUIÑA,CMÑO VEIGUIÑA (ALCABRE),17,42.21987,-8.75819,36212,986240703,
+2020,Centro de Educación Especial (CEEPR),Centro de Educación Especial (CEEPR),164,CEEPR Aspanaex,CASTRELOS,PAZO,RUA MESTRES GOLDAR,18,42.21015,-8.72605,36213,986208395,
+1859,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Josefa Alonso de Alonso,MATAMA,SAN MAURO,RUA MANUEL COMINGES,14,42.19988,-8.73778,36213,886120246,http://www.edu.xunta.gal/centros/ceipjosefaalonso/
+1860,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Otero Pedrayo,BEADE,BABIO,RUA RAMIRO PASCUAL,9,42.19519,-8.71879,36312,886120257,
+1861,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Sobreira-Valadares,VALADARES,GARRIDA,CTRA ESCOLA DA SOBREIRA,89,42.16438,-8.70838,36315,986468189,
+1862,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP de Coutada-Beade,BEADE,COUTADA,CMÑO ALEN,6,42.19213,-8.70148,36312,886111196,
+1863,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP de Mosteiro-Bembrive,BEMBRIVE,MOSTEIRO,CTRA BEMBRIVE,161,42.20624,-8.69102,36214,886120216,http://www.edu.xunta.gal/centros/ceipmosteirobembrive/
+1871,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP O Sello,CABRAL,SELLO,RUA SARDOMELA,5,42.22138,-8.66904,36215,886120268,
+1872,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Carballal-Cabral,CABRAL,CARBALLAL,RUA LOMBA,1,42.23478,-8.64811,36317,886120124,
+1873,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP da Igrexa-Candeán,CANDEAN,IGREXA,RUA SAN CRISTOVO (CANDEAN),131,42.24156,-8.66801,36317,886120037,
+1874,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Eduardo Pondal,VIGO,VIGO,RUA ROSAL FLORIDO,24,42.23447,-8.69049,36215,886120261,
+1875,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Frián-Teis,VIGO,VIGO,CMÑO GONDERAN,42,42.24145,-8.69522,36206,886120161,http://www.edu.xunta.gal/centros/ceipfrian/
+1876,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP de Fonte Escura,LAVADORES,BARREIRO,TRVA BARREIRO 1 (LAVADORES),34,42.22812,-8.67545,36214,886120130,http://www.edu.xunta.gal/centros/ceipfonteescura/
+1877,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Valle Inclán,LAVADORES,VILAR,AVDA ALCALDE DE LAVADORES,16,42.22332,-8.69970,36214,886120202,
+1878,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP A Doblada,VIGO,VIGO,RUA GAIVOTA,18,42.22515,-8.70750,36205,886120154,
+1910,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Ramón y Cajal,VIGO,VIGO,RUA MARQUES DE VALTERRA,8,42.23372,-8.73215,36202,886120065,
+1911,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Altamar,VIGO,VIGO,RUA CESAREO GONZALEZ,4,42.21862,-8.73189,36210,986213713,
+1941,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Emilia Pardo Bazán,VIGO,VIGO,CMÑO CHOUZO,7,42.22338,-8.73603,36208,886120078,
+1942,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Virxe do Rocío,VIGO,VIGO,RUA ROCIO,70,42.21999,-8.75213,36208,986236148,
+1943,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Illas Cíes,VIGO,VIGO,AVDA CASTELAO,59,42.21789,-8.74424,36209,886120111,http://www.edu.xunta.gal/centros/ceipillascies/
+1944,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Seis do Nadal,VIGO,VIGO,RUA MONDARIZ,2,42.21626,-8.74695,36209,886120182,https://www.edu.xunta.gal/centros/cepseisdonadal/
+1945,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Pintor Laxeiro,VIGO,VIGO,RUA GARCIA LORCA,18,42.21852,-8.73779,36210,886120137,
+1946,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Balaídos,VIGO,VIGO,RUA PABLO IGLESIAS,1,42.21118,-8.74374,36210,886111084,
+1947,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Escultor Acuña,VIGO,VIGO,RUA ESTRADA,10,42.22095,-8.74096,36209,886120115,
+1952,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP A Paz,CORUXO,TINTUREIRA,CTRA FRAGOSELO,42,42.18776,-8.77306,36330,886120271,
+1953,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Alfonso D. Rodríguez Castelao,NAVIA,XUNCAL,RUA PEDRA SEIXA (DA),35,42.20935,-8.76060,36212,886120253,
+1954,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Ría de Vigo,OIA,POZA,AVDA CESAREO VAZQUEZ,139,42.18753,-8.80122,36390,886120107,
+1958,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP García Barbón,VIGO,VIGO,RUA SERAFIN AVENDAÑO,20,42.23605,-8.71307,36201,886120161,
+1979,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe da Carrasqueira,CORUXO,COUTO DE ABAIXO,RUA CARRASQUEIRA,55,42.19745,-8.78061,36331,886120191,
+1982,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Javier Sensat,ALCABRE,CASTAÑAL,RUA XAVIER SENSAT,8,42.22093,-8.76222,36208,886120243,
+1983,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Párroco Don Camilo,COMESAÑA,EIDOS,CTRA MATAMA PAZO,104,42.20071,-8.75396,36213,886120222,http://www.edu.xunta.gal/centros/ceipparrocodoncamilo/
+2000,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP San Salvador,VIGO,VIGO,AVDA GALICIA,181,42.25669,-8.68480,36216,886120210,
+2001,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Plurilingüe Paraixal,TEIS,PARAIXAL,RUA COLEXIO PARAIXAL,17,42.24849,-8.68567,36216,886120233,
+2002,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Vicente Risco,VIGO,VIGO,RUA SANTANDER,10,42.24627,-8.70083,36207,886120185,
+2009,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Santa Mariña,CABRAL,BECERREIRA,RUA XALON,40,42.22065,-8.65469,36318,886120175,
+2010,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP O Pombal,LAVADORES,PARDAVILA,CMÑO POMBAL (CALVARIO),0,42.23246,-8.69875,36205,886120087,http://centros.edu.xunta.es/ceipopombal
+2014,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP A Canicouva,CASTRELOS,PEREIRO,RUA CANICOUVA (CASTRELOS),22,42.20944,-8.72971,36213,886120237,
+2015,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Mestres Goldar,CASTRELOS,COSTA,RUA COSTA (CASTRELOS),4,42.21343,-8.72271,36213,886120095,
+2016,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP Lope de Vega,SARDOMA,RAVISO,CTRA PROVINCIAL,119,42.22223,-8.71082,36214,886111165,
+2017,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP de Sárdoma-Moledo,SARDOMA,RELFAS,CTRA MARCO,30,42.20737,-8.70714,36214,886120168,
+4594,Centro de Educación Infantil y Primaria (CEIP),Centro de Educación Infantil e Primaria (CEIP),78,CEIP de Chans-Bembrive,BEMBRIVE,CHANS,RUA LOMBA,2,42.19644,-8.67672,36313,886111140,http://centros.edu.xunta.es/ceipdechans.bembrive
+5154,Centro Integrado de Formacion Profesional (CIFP),Centro Integrado de Formacion Profesional (CIFP),200,CIFP Manuel Antonio,,,AVDA MADRID,,42.21487,-8.68078,36214,886120750,http://www.edu.xunta.gal/centros/cifpmanuelantonio/
+1951,Centro Integrado de Formacion Profesional (CIFP),Centro Integrado de Formacion Profesional (CIFP),200,CIFP de Coia,VIGO,VIGO,RUA BAIONA,28,42.21476,-8.75185,36209,886110905,
+2019,Centro Integrado de Formacion Profesional (CIFP),Centro Integrado de Formacion Profesional (CIFP),200,CIFP Valentín Paz Andrade,LAVADORES,BOUCIÑA,CTRA VELLA MADRID,160,42.21838,-8.68001,36214,886110857,
+1957,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Santa Marta - Casco Vello,VIGO,VIGO,RUA SANTA MARTA,38,42.23610,-8.73028,36202,986442153,
+1976,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Costeira de Saiáns,SAIANS,RADIO COSTERA,BDA PRAIA (SAIANS),83,42.16717,-8.80612,36392,986498677,
+1986,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Santa Cristina de Lavadores,LAVADORES,BAGUNDA,RUA SANTA CRISTINA,1,42.22693,-8.69722,36214,986280732,
+2021,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Atalaia de Teis,VIGO,VIGO,AVDA DOÑA FERMINA,9,42.25368,-8.70030,36207,986376503,
+5218,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Bouzas - Casiano Martínez,VIGO,VIGO,RUA CASIANO MARTINEZ,18,42.22381,-8.75577,36208,986246550,
+5219,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Mestres Goldar,CASTRELOS,PAZO,RUA MESTRES GOLDAR,22,42.20974,-8.72616,36213,986239644,
+5220,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Navia,,,RUA PEDRA SEIXA (DA),37,42.20885,-8.76256,36212,986687822,
+5221,Escuelas Infantiles Municipales (EIM),Escolas Infantís Municipais (EIM),157,EIM Tomás Alonso,,,RUA TOMAS A ALONSO,,42.22464,-8.74565,36208,986291206,
+5234,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Pasiño a Pasiño,VIGO,VIGO,RUA SANJURJO BADIA,5,42.24330,-8.70629,36207,986437609,
+5235,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI San Nicolás,VIGO,VIGO,RUA NUMANCIA,52,42.23401,-8.70458,36206,986262570,
+5236,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Santa Isabel,VIGO,VIGO,RUA DR. CORBAL,33,42.25120,-8.69712,36207,986376427,
+5237,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Santo Tomé de Treixeiro,FREIXEIRO,FREIXEIRO,RUA PASTORA,44,42.21821,-8.72927,36210,986136059,
+5222,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Bouzas,,,RUA PARDAIÑA,2,42.22021,-8.75587,36208,,
+5223,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Relfas,SARDOMA,RELFAS,CTRA MARCO,28,42.20795,-8.70779,36214,886120120,
+5224,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Rosalía de Castro,VIGO,VIGO,RUA BAIONA,9,42.21529,-8.74933,36209,886120164,
+5225,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Caeiro,CABRAL,CAEIRO,CMÑO GORGUIÑA,2,42.22933,-8.65354,36318,886120145,
+5226,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI San Paio,VIGO,VIGO,RUA RONDA DON BOSCO,1,42.23526,-8.72577,36202,986222137,
+5228,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Rúa Palencia,VIGO,VIGO,RUA PALENCIA,32,42.22940,-8.70096,36205,986267794,
+5229,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Valadares,,,,,42.19346,-8.70672,36214,886092307,
+5230,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Ángel de la Guarda,VIGO,VIGO,RUA DR. CARRACIDO,11,42.23013,-8.70556,36205,986273012,
+5231,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Atalaia Cantabria,LAVADORES,PARDAVILA,RUA CANTABRIA,18,42.23320,-8.69651,36205,986276012,
+5232,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Cáritas Tui-Vigo,VIGO,VIGO,RUA FIGUEIRO,21,42.23747,-8.68748,36215,986277370,
+5233,Escuelas Infantiles (EI) / Guarderías Infantiles,Escolas Infantís (EI) / Garderías Infantís,198,EI Panxolinas,VIGO,VIGO,PRAZA CONSOLACION,1,42.22108,-8.74482,36208,986294243,
+1865,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES de Beade,BEADE,SAA,CMÑO OUTEIRO (BEADE),10,42.20161,-8.71553,36312,886111030,
+1879,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Castelao,VIGO,VIGO,RUA ARAGON,22,42.23243,-8.70120,36206,886111111,
+1923,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Politécnico de Vigo,VIGO,VIGO,RUA CONDE TORRECEDEIRA,88,42.22658,-8.73504,36208,986213025,
+1924,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES do Castro,VIGO,VIGO,RUA JOSE GOMEZ POSADA CURROS,1,42.22772,-8.72618,36203,986422974,
+1925,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Santa Irene,VIGO,VIGO,PRAZA AMERICA,7,42.22006,-8.73182,36211,986233799,
+1948,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Audiovisual de Vigo,VIGO,VIGO,RUA EDUARDO CABELLO,,42.22569,-8.75162,36208,886111152,
+1949,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Alexandre Bóveda,VIGO,VIGO,RUA CUNTIS,26,42.21526,-8.75092,36209,986292812,
+1950,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Álvaro Cunqueiro,VIGO,VIGO,RUA PORRIÑO,,42.21599,-8.75231,36209,886111181,
+1977,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Coruxo,CORUXO,COUTO DE ABAIXO,RUA CARRASQUEIRA,68,42.19780,-8.77965,36331,886111016,
+1984,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Valadares,VALADARES,SOBREIRA,ESTDA CLARA CAMPOAMOR,,42.16702,-8.70784,36213,886111060,
+1989,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Carlos Casares,CABRAL,FONTIÑAS,AVDA PONTE,102,42.21163,-8.67195,36215,886120429,
+1990,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Ricardo Mella,LAVADORES,BOUCIÑA,CTRA VELLA MADRID,177,42.21751,-8.67976,36214,886121001,
+1992,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Rosais 2,VIGO,VIGO,RUA COUTADAS (AS),,42.24353,-8.70297,36207,886120511,
+2003,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES de Teis,VIGO,VIGO,AVDA GALICIA,101,42.25139,-8.68994,36216,886120464,
+2004,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES República Oriental do Uruguai,VIGO,VIGO,RUA COUTADAS (AS),54,42.24387,-8.70207,36207,886120490,
+2005,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES A Guía,VIGO,VIGO,AVDA DOÑA FERMINA,1,42.25365,-8.69886,36207,886111003,
+2018,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,IES Santo Tomé de Freixeiro,VIGO,VIGO,AVDA GRAN VIA,191,42.22031,-8.73068,36210,986231667,
+4618,Instituto Enseñanza Secundaria (IES),Instituto Ensinanza Secundaria (IES),144,Instituto Marítimo Pesqueiro do Atlántico,VIGO,VIGO,AVDA BEIRAMAR,55,42.23310,-8.73378,36202,886110825,
+1864,Centro Educación Primaria (CEP),Centro Educación Primaria (CEP),165,CEP Plurilingüe Igrexa-Valadares,VALADARES,BARROCAS,CMÑO CASEIRO,,42.17393,-8.72510,36315,886111135,
+5153,Centro Educación Primaria (CEP),Centro Educación Primaria (CEP),165,CEP Celso Emilio Ferreiro,,,RUA PORRIÑO,,42.21664,-8.75367,36209,986298058,http://www.edu.xunta.gal/centros/cepcelsoemiliovigo/
+1909,Centro Educación Primaria (CEP),Centro Educación Primaria (CEP),165,CEP Dr. Fleming,VIGO,VIGO,RUA OURENSE,15,42.22632,-8.72802,36211,886120909,http://www.edu.xunta.es/centros/cepfleming
+1999,Centro Educación Primaria (CEP),Centro Educación Primaria (CEP),165,CEP Santa Tegra-Teis,VIGO,VIGO,CMÑO MACEIRAS (TEIS),48,42.25167,-8.70030,36207,886120228,
+1856,Escuela Educación Infantíl (EEI),Escola Educación Infantíl (EEI),156,EEI Zamáns,ZAMANS,IGREXA,CMÑO SUEIDO,24,42.15521,-8.68892,36310,886120195,
+1857,Escuela Educación Infantíl (EEI),Escola Educación Infantíl (EEI),156,EEI Monte do Alba,VALADARES,BARROCAS,CMÑO IGREXA (VALADARES),133,42.17555,-8.72399,36314,886120213,
+5201,Escuela Educación Infantíl (EEI),Escola Educación Infantíl (EEI),156,EEI Rúa Aragón,VIGO,VIGO,RUA ARAGON,114,42.23781,-8.70082,36206,986374278,
+1886,Escuela Educación Infantíl (EEI),Escola Educación Infantíl (EEI),156,EEI Rúa Hernán Cortés,VIGO,VIGO,RUA HERNAN CORTES,15,42.23328,-8.71839,36203,886120225,
+1908,Escuela Educación Infantíl (EEI),Escola Educación Infantíl (EEI),156,EEI Vila Laura,VIGO,VIGO,AVDA HISPANIDADE,86,42.22609,-8.72691,36203,986471410,
+1937,Escuela Educación Infantíl (EEI),Escola Educación Infantíl (EEI),156,EEI Cristo da Victoria,VIGO,VIGO,RUA CALDAS DE REIS,11,42.21622,-8.75079,36209,886120205,
+2022,Escuela Educación Infantíl (EEI),Escola Educación Infantíl (EEI),156,EEI Monte da Guía,VIGO,VIGO,RUA IRMANS MISIONEIROS DOS ENFERMOS POBRES,37,42.25284,-8.69892,36207,886120960,
+5202,Escuela de Música Superior (EMUS),Escola de Música Superior (EMUS),204,EMUSPR Coppelia,VIGO,VIGO,RUA PI Y MARGALL,61,42.23345,-8.73022,36202,986425193,
+5203,Escuela de Música Superior (EMUS),Escola de Música Superior (EMUS),204,EMUSPR de Valadares,VALADARES,PORTAL,CTRA VALADARES,233,42.17696,-8.72144,36314,,
+5214,Escuela de Música Superior (EMUS),Escola de Música Superior (EMUS),204,ESMU Municipal de Vigo,VIGO,VIGO,CMÑO REGUEIRO,1,42.22611,-8.72722,36211,986410785,
+4624,Escuela de Música Superior (EMUS),Escola de Música Superior (EMUS),204,EMUSPR Atlántida,MATAMA,DEVESA,RUA CANTEIROS,53,42.20124,-8.73401,36213,986236389,
+4625,Escuela de Música Superior (EMUS),Escola de Música Superior (EMUS),204,EMUSPR de Beade,BEADE,CARBALLO DO PAZO,CTRA COUTADA (BEADE),42,42.19460,-8.69915,36312,986243663,
+4626,Escuela de Música Superior (EMUS),Escola de Música Superior (EMUS),204,EMUSPR Unión Musical de Coruxo,CORUXO,COMBRO,CTRA BAO,65,42.19378,-8.78158,36331,672106120,
+4627,Escuela de Música Superior (EMUS),Escola de Música Superior (EMUS),204,EMUSPR Aceimar,CABRAL,FONTIÑAS,AVDA PONTE (CABRAL),80,42.21494,-8.66939,36215,,
+4611,Escuela Municipal,Escola Municipal,201,Escola Municipal de Teatro,CASTRELOS,GALINDRA,CMÑO GALINDRA,0,42.20927,-8.72401,36213,986485324,http://www.emtvigo.com/
+1932,Escuela Municipal,Escola Municipal,201,Escola Municipal de Música de Vigo,VIGO,VIGO,CMÑO REGUEIRO,1,42.22611,-8.72722,36211,986410785,http://www.esmuvigo.es
+4612,Escuela Municipal,Escola Municipal,201,Escola Municipal de Danza,VIGO,VIGO,PRAZA REI,1,42.23594,-8.72667,36202,986810167,http://emmavigo.org/
+1968,Escuela Municipal,Escola Municipal,201,Escola Municipal de Artes e Oficios,VIGO,VIGO,AVDA GARCIA BARBON,5,42.23761,-8.71959,36201,986228088,http://emmavigo.org/
+4610,Escuela Municipal,Escola Municipal,201,Escola Municipal de Música Folk e Tradicional (e-Trad),VIGO,VIGO,AVDA GARCIA BARBON,5,42.23761,-8.71959,36201,986228088,www.e-trad.org
+5187,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Montesol,VIGO,VIGO,RUA SALCEDA DE CASELAS,8,42.21388,-8.75030,36209,986208512,
+5188,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Niño Jesús de Praga,VIGO,VIGO,RUA AREAL,92,42.23865,-8.71346,36201,986433800,
+5189,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Ntra. Señora de la Esperanza,LAVADORES,BOUCIÑA,RUA CAMBESES,18,42.22858,-8.68393,36214,986274994,
+5190,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Possumus,VIGO,VIGO,RUA PURIFICACION SAAVEDRA,62,42.24997,-8.69925,36207,986371330,
+5191,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe San Blas - Vista Alegre,CABRAL,FONTIÑAS,SBIDA CEMITERIO PUXEIROS,28,42.21912,-8.67021,36318,986376288,
+5192,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe San Fernando,FREIXEIRO,MANTELAS,BDA SALGUEIRA,40,42.22559,-8.71672,36204,986410174,https://colegiosanfernandovigo.com
+5193,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe San José de la Guía,VIGO,VIGO,RUA DR. CORBAL,25,42.25049,-8.69736,36207,986376153,
+5194,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe San Miguel 2,VIGO,VIGO,RUA TOMAS A ALONSO,13,42.22646,-8.73345,36208,986293282,
+5195,Centro Privado (CPR),Centro Privado (CPR),151,CPR Quiñones de León,VIGO,VIGO,RUA TRAVESIA DE VIGO,36,42.23393,-8.70615,36206,986278089,
+5196,Centro Privado (CPR),Centro Privado (CPR),151,CPR Radio ECCA,VIGO,VIGO,RUA VELAZQUEZ MORENO,9,42.23809,-8.72185,36201,986227315,
+5197,Centro Privado (CPR),Centro Privado (CPR),151,CPR San Fermín,VIGO,VIGO,RUA TRAVESIA DE VIGO,96,42.23676,-8.70322,36206,986272195,
+5198,Centro Privado (CPR),Centro Privado (CPR),151,CPR San José de Cluny,SARDOMA,RAVISO,RUA CARBALLO,46,42.22368,-8.71308,36204,986493501,
+5199,Centro Privado (CPR),Centro Privado (CPR),151,CPR San Nicolás,VIGO,VIGO,RUA NUMANCIA,52,42.23401,-8.70458,36206,986262570,
+1847,Centro Privado (CPR),Centro Privado (CPR),151,CPR Breogán,VIGO,VIGO,AVDA AEROPORTO,35,42.23480,-8.69984,36206,986273946,
+1848,Centro Privado (CPR),Centro Privado (CPR),151,CPR ICA,VIGO,VIGO,RUA PORTELA,12,42.23046,-8.70126,36205,986377779,
+1849,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Escuelas Nieto,LAVADORES,PARDAVILA,AVDA RAMON NIETO,247,42.22963,-8.68655,36205,986372481,
+5200,Centro Privado (CPR),Centro Privado (CPR),151,CPR Santa Cristina,LAVADORES,BAGUNDA,RUA PORTELA,87,42.22753,-8.69758,36205,986251309,
+1867,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Rosalía de Castro,BEMBRIVE,SEGADE,CTRA BEMBRIVE,91,42.21079,-8.69452,36214,986420433,
+1900,Centro Privado (CPR),Centro Privado (CPR),151,CPR Esica,VIGO,VIGO,RUA TRAVESIA DE VIGO,42,42.23421,-8.70597,36206,986273469,
+1902,Centro Privado (CPR),Centro Privado (CPR),151,CPR San Miguel,VIGO,VIGO,RUA TOMAS A ALONSO,13,42.22646,-8.73345,36208,986221325,
+1916,Centro Privado (CPR),Centro Privado (CPR),151,CPR Seresco,VIGO,VIGO,RUA CONDE TORRECEDEIRA,82,42.22809,-8.73384,36208,986430733,http://www.seresco.es
+1918,Centro Privado (CPR),Centro Privado (CPR),151,CPR Mendiño,VIGO,VIGO,RUA PI Y MARGALL,139,42.22884,-8.73197,36202,986293444,
+1919,Centro Privado (CPR),Centro Privado (CPR),151,CPR Cebem,VIGO,VIGO,AVDA HISPANIDADE,33,42.23172,-8.72865,36203,986419899,
+1920,Centro Privado (CPR),Centro Privado (CPR),151,CPR Povisa Formación Profesional,VIGO,VIGO,RUA ROMIL,75,42.22738,-8.72908,36211,986471755,
+1921,Centro Privado (CPR),Centro Privado (CPR),151,CPR Educatic,VIGO,VIGO,RUA ZAMORA,106,42.22236,-8.72817,36211,986211295,
+1922,Centro Privado (CPR),Centro Privado (CPR),151,CPR Sanitex,VIGO,VIGO,RUA RAMON Y CAJAL,16,42.22780,-8.72073,36203,986410390,
+1960,Centro Privado (CPR),Centro Privado (CPR),151,CPR Vivas,VIGO,VIGO,RUA PRINCIPE,17,42.23712,-8.72333,36202,986227085,
+1962,Centro Privado (CPR),Centro Privado (CPR),151,CPR Daniel Castelao,VIGO,VIGO,AVDA GARCIA BARBON,50,42.23680,-8.71405,36201,986442121,
+1963,Centro Privado (CPR),Centro Privado (CPR),151,CPR Seforma,VIGO,VIGO,RUA AREAL,68,42.23869,-8.71500,36201,986222215,
+5155,Centro Privado (CPR),Centro Privado (CPR),151,CPR A Camelia,NAVIA,DEVESA,RUA BRAVO,36,42.20998,-8.76652,36212,986241329,
+1981,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Amor de Dios,ALCABRE,BARREIRO,AVDA EUROPA,21,42.21621,-8.75849,36212,986240669,
+1987,Centro Privado (CPR),Centro Privado (CPR),151,CPR Estudios Marcote,CABRAL,FONTIÑAS,AVDA PONTE (CABRAL),80,42.21494,-8.66939,36218,986378467,
+5156,Centro Privado (CPR),Centro Privado (CPR),151,CPR Aloya,VIGO,VIGO,RUA COUTO (O CASTRO),2,42.23048,-8.72213,36203,986420722,http://www.aloya.es
+1998,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Padre Míguez,VIGO,VIGO,RUA MONTECELO,1,42.24246,-8.70608,36207,986437723,
+2028,Centro Privado (CPR),Centro Privado (CPR),151,CPR Divino Maestro,VIGO,VIGO,CMÑO CANCELO,32,42.25253,-8.69978,36207,986371686,
+5157,Centro Privado (CPR),Centro Privado (CPR),151,CPR Arturo,VIGO,VIGO,RUA PI Y MARGALL,40,42.23360,-8.73034,36202,986122035,
+5158,Centro Privado (CPR),Centro Privado (CPR),151,CPR Aula Estudio,,,RUA SANTA MARTA,,42.23472,-8.73066,36202,986436212,http://www.aulaestudio.com/
+4631,Centro Privado (CPR),Centro Privado (CPR),151,CPR Los Olivos,VIGO,VIGO,RUA MARQUES DE ALCEDO,1,42.23261,-8.72404,36203,986420938,
+5159,Centro Privado (CPR),Centro Privado (CPR),151,CPR Colegio Hogar Afundación,VIGO,VIGO,RUA FILIPINAS,6,42.22703,-8.71424,36204,986414311,
+5160,Centro Privado (CPR),Centro Privado (CPR),151,CPR Fillas de María Inmaculada,VIGO,VIGO,RUA VAZQUEZ VARELA,57,42.22927,-8.71584,36204,986423988,
+5161,Centro Privado (CPR),Centro Privado (CPR),151,CPR El Pilar,VIGO,VIGO,RUA VENEZUELA,20,42.23321,-8.72192,36203,986420022,
+5162,Centro Privado (CPR),Centro Privado (CPR),151,CPR Marcote,CABRAL,FONTIÑAS,AVDA PONTE,80,42.21494,-8.66939,36215,986251511,
+5163,Centro Privado (CPR),Centro Privado (CPR),151,CPR Martín Códax,CABRAL,PEINADOR,AVDA AEROPORTO,742,42.22901,-8.63539,36318,,
+5164,Centro Privado (CPR),Centro Privado (CPR),151,CPR Mega Formación,,,RUA SANTA MARTA,,42.23533,-8.73034,36202,986233194,
+5165,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Alba,VIGO,VIGO,RUA ESPERANTO,8,42.23281,-8.71020,36204,986411810,
+5166,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Alborada,CANDEAN,PARACHAN,AVDA AEROPORTO,392,42.23410,-8.67036,36317,986272432,
+5167,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Andersen Augalonga,VALADARES,GARRIDA,CMÑO ESCOLA ANDERSEN,28,42.16156,-8.72281,36315,986469412,
+5168,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Apostol Santiago,VIGO,VIGO,RUA SANJURJO BADIA,79,42.24492,-8.70374,36207,986371011,
+5169,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Atalaya - Cantabria,LAVADORES,PARDAVILA,RUA CANTABRIA,18,42.23320,-8.69651,36205,986276012,
+5170,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Atlántida,VIGO,VIGO,RUA ROCIO,7,42.22181,-8.75213,36208,986233938,
+5171,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Barreiro,VALADARES,CARREGAL,CTRA VALADARES,78,42.18500,-8.72235,36315,986467800,
+5172,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Bouza Brey,VIGO,VIGO,RUA SAN XOAN,167,42.23810,-8.69518,36206,986377238,
+5173,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Compañía de María,VIGO,VIGO,RUA ECUADOR,33,42.23382,-8.72055,36203,986436400,
+5174,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Divino Salvador,CORUXO,ROZO,CTRA BAO,49,42.19417,-8.77881,36330,986490320,
+5175,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Don Bosco,VIGO,VIGO,RUA ESTRADA,5,42.22047,-8.74148,36209,986231149,
+5176,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe El Castro,FREIXEIRO,FREIXEIRO,AVDA GRAN VIA,171,42.22156,-8.72738,36210,986481762,
+5177,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Labor,VIGO,VIGO,AVDA CAMELIAS,53,42.22976,-8.73029,36211,986414529,
+5178,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Las Acacias,BEMBRIVE,RECARE,RUA PARROCHA,26,42.21475,-8.68732,36313,986278016,
+5179,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Losada,LAVADORES,PARDAVILA,BDA CAPITAN,31,42.22776,-8.69180,36214,986272229,
+5180,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe María Auxiliadora,,,RUA VENEZUELA,7,42.23445,-8.72425,36203,986433855,
+5181,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe María Inmaculada,VIGO,VIGO,RUA PI Y MARGALL,58,42.23279,-8.73084,36202,986229520,
+5182,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Mariano,VIGO,VIGO,RUA URZAIZ,122,42.23124,-8.70878,36205,986275168,
+5183,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Mercantil,VIGO,VIGO,RUA TOMAS A ALONSO,56,42.22478,-8.73480,36208,986233818,
+5184,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Miralba,VIGO,VIGO,AVDA GRAN VIA,164,42.22150,-8.72873,36211,986213047,
+5185,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Montecastelo,LAVADORES,GANDARIÑA,RUA PAZ PARDO,84,42.21406,-8.69346,36214,986412488,
+5186,Centro Privado (CPR),Centro Privado (CPR),151,CPR Plurilingüe Monterrey,,,RUA MONTECELO ALTO,41,42.24259,-8.70198,,986272047,
+1904,Escola de Danza Privada (EDANPR),Escola de Danza Privada (EDANPR),159,EDANPR Danza Pasiños,VIGO,VIGO,RUA JOAQUIN LORIGA,8,42.23454,-8.72156,36203,986430607,
+1929,Escola de Danza Privada (EDANPR),Escola de Danza Privada (EDANPR),159,EDANPR Esperanza Arrondo,VIGO,VIGO,RUA ROMIL,78,42.22863,-8.72955,36211,986470039,
+1930,Escola de Danza Privada (EDANPR),Escola de Danza Privada (EDANPR),159,EDANPR Coppelia,VIGO,VIGO,RUA PI Y MARGALL,61,42.23345,-8.73022,36202,986425193,
+1974,Escola de Danza Privada (EDANPR),Escola de Danza Privada (EDANPR),159,EDANPR Susana Castro,VIGO,VIGO,RUA CRONISTA RODRIGUEZ ELIAS,2,42.21159,-8.74718,36209,986296968,
+1928,Centro de Estudios de Danza (CEDA),Centro de Estudios de Danza (CEDA),199,CEDA Elemental Coppelia,VIGO,VIGO,RUA PI Y MARGALL,61,42.23345,-8.73022,36202,986222930,
